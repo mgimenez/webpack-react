@@ -1,5 +1,4 @@
-const css = require('./HeaderNav.scss');
-
+import './HeaderNav.scss';
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 
