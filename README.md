@@ -1,4 +1,4 @@
-# car-amazon
+# Webpack React Boilerplate
 
 ## How to run
 
