@@ -1,13 +1,12 @@
-import './styles.scss';
+import './assets/scss/global.scss';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HeaderNav from './components/HeaderNav/HeaderNav';
+import Header from './components/Header/Header';
 
 ReactDOM.render(
   <div>
-    <h1>Hi</h1>
-    <HeaderNav/>
+    <Header/>
   </div>,
   document.getElementById('root')
 );
